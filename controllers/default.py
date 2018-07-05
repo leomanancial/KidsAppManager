@@ -213,3 +213,5 @@ def busca_aluno():
 
     return locals()
 
+def home():
+    return locals
