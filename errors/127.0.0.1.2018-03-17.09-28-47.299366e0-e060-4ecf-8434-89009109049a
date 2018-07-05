@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.KeyError'> "
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f4b7dfdeb30, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py", line 7>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py", line 696, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py", line 146, in insert\n    form = SQLFORM(db[table], ignore_rw=ignore_rw)\n  File "/home/leonardo/Downloads/web2py/gluon/sqlhtml.py", line 1514, in __init__\n    inp = self.widgets.options.widget(field, default)\n  File "/home/leonardo/Downloads/web2py/gluon/sqlhtml.py", line 325, in widget\n    options = requires[0].options()\n  File "/home/leonardo/Downloads/web2py/gluon/validators.py", line 601, in options\n    self.build_set()\n  File "/home/leonardo/Downloads/web2py/gluon/validators.py", line 596, in build_set\n    self.labels = [self.label % r for r in records]\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/objects.py", line 96, in __getitem__\n    raise KeyError\nKeyError\n'
+p11
+s.

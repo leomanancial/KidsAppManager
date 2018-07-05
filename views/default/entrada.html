@@ -1,0 +1,25 @@
+{{extend 'layout_kids.html'}}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Registro de Entradas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/2.3.1/jquery.quicksearch.js"></script>
+</head>
+<body>
+   <div class="container">
+    <h2>Controle de Entrada Kids2</h2>
+  
+    {{if 'message' in globals():}}
+    <h3>{{=message}}</h3>
+    {{pass}}
+    <h2>{{=T('Nome')}}</h2>
+    <h3>{{=A(T('Alunos'), _href=URL('default','index'))}} {{=A(T('Tasks'), _href=URL('task'))}}</h3>
+    {{=grid}}
+</div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+{{extend 'layout_kids.html'}}
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Registro de Entradas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/2.3.1/jquery.quicksearch.js"></script>
+
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<div class="container">
+  
+    
+    <h1> Olá {{=usuario}}</h1>
+
+    <div class="row justify-content-center">
+      <div class="col-md-4">
+        <a class="btn btn btn-primary btn-lg btn-block btn-huge" href="{{=URL('default','busca_aluno')}}" role="button">Presença</a>
+      </div>
+      <div class="col-md-4">
+        <a class="btn btn btn-secondary btn-lg btn-block btn-huge" href="{{=URL('default','cadastro')}}" role="button">Cadastro Kids</a>
+      </div>
+      <div class="col-md-4">
+        <a class="btn btn btn-info btn-lg btn-block btn-huge" href="{{=URL('default','equipe')}}" role="button">Cadastro Equipe</a>
+      </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+        <button type="button" class="btn btn-successs btn-lg btn-block btn-huge">Relatórios</button>
+      </div>
+      <div class="col-md-4">
+        <button type="button" class="btn btn-danger btn-lg btn-block btn-huge">Material</button>
+      </div>
+      <div class="col-md-4">
+        <button type="button" class="btn btn-light btn-lg btn-block btn-huge">Área Administrativa</button>
+      </div>
+    </div>
+ 
+
+</div>
+</html>

@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'Table' object has no attribute 'type'"
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f8fd40413b0, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 10>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 177, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 157, in busca_aluno\n    freq_campo = db(db.frequencia.cod_presenca).select(db.frequencia).first()\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/objects.py", line 2250, in select\n    return adapter.select(self.query, fields, attributes)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 757, in select\n    colnames, sql = self._select_wcols(query, fields, **attributes)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 632, in _select_wcols\n    sql_fields = \', \'.join(self._geoexpand(x, query_env) for x in fields)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 632, in <genexpr>\n    sql_fields = \', \'.join(self._geoexpand(x, query_env) for x in fields)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 550, in _geoexpand\n    if isinstance(field.type, str) and field.type.startswith(\'geo\') and \\\nAttributeError: \'Table\' object has no attribute \'type\'\n'
+p11
+s.

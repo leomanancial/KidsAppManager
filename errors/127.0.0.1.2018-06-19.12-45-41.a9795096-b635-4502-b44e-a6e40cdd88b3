@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'DAL' object has no attribute 'lista_presenca'"
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7fcc985d9f30, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 9>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 117, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 72, in entrada\n    return dict(grid=SQLFORM.smartgrid(db.lista_presenca,linked_tables=[\'lista_presenca\'],user_signature=False),editable=True, deletable=False,create=True)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/base.py", line 669, in __getattr__\n    return BasicStorage.__getattribute__(self, key)\nAttributeError: \'DAL\' object has no attribute \'lista_presenca\'\n'
+p11
+s.

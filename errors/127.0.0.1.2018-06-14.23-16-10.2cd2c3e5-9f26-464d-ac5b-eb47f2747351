@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S'<class \'gluon.contrib.pymysql.err.ProgrammingError\'> (1146, u"Table \'kids2.frequencia\' doesn\'t exist")'
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/compiled/controllers.appadmin.insert.pyc'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f116c4c4630, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/compiled/controllers.appadmin.insert.py", line 7>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/compiled/controllers.appadmin.insert.py", line 696, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/compiled/controllers.appadmin.insert.py", line 147, in insert\n  File "/home/leonardo/Downloads/web2py/gluon/sqlhtml.py", line 1965, in accepts\n    self.vars.id = self.table.insert(**fields)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/objects.py", line 753, in insert\n    ret = self._db._adapter.insert(self, row.op_values())\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 486, in insert\n    raise e\nProgrammingError: (1146, u"Table \'kids2.frequencia\' doesn\'t exist")\n'
+p11
+s.

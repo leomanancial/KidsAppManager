@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.SyntaxError'> <input/> tags cannot have components"
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7fa2c44b32b0, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 8>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 97, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/gluon/tools.py", line 3982, in f\n    return action(*a, **b)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 80, in cadastro\n    form.append(INPUT(\'nome_crianca\',type=\'text\'))\n  File "/home/leonardo/Downloads/web2py/gluon/html.py", line 713, in __init__\n    % self.tag)\nSyntaxError: <input/> tags cannot have components\n'
+p11
+s.

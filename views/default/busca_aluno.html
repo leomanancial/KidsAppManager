@@ -1,0 +1,122 @@
+{{extend 'layout_kids.html'}}
+
+<!DOCTYPE html>
+<html>
+
+<body>
+  <form>
+    <div class="container">
+      <div class="form-row">
+        <div class="col-md-12">
+          <!--h2 class="alert alert-info"> Buscar Kids</h2-->
+          <div class="input-group col-md-12">
+            <input id="nome_kids" type="text" required class="form-control input-lg" name="nome_kids" placeholder="Digite o nome da criança"
+              value="" />
+            <div>
+              <button class="btn btn-outline-primary" type="submit" name="lista_presenca" id="nome_kids">Buscar</button>
+            </div>
+            <a class="btn btn-outline-success" href="{{=URL('default','cadastro')}}" role="button">Novo</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    </br>
+    <div class="container">
+      {{ if nao_encontrado: }}
+      <div class="alert alert-danger ">
+        <button type="button" class="close" data-dismiss="alert"></button>{{=nao_encontrado}}</div>
+      {{pass}}
+    </div>
+    <div>
+  </form>
+  <!--Busca  e inclusão de alunos na lista de presença-->
+
+  <div class="container">
+    <div class="form-row">
+      <div class="col-md-4 mb-3">
+
+        <label "c_nome">Nome</label>
+        <input id="c_nome" type="text" class="form-control" name="c_nome" placeholder="Aluno" readonly="true" value="{{=d_nome}}">
+      </div>
+      <div class="col-md-4 mb-3">
+        <label for="validationDefault02">Matricula</label>
+        <input id="c_matricula" name="c_matricula" type="text" class="form-control" placeholder="nº da matrícula" readonly="true"value="{{=d_matric}}" >
+      </div>
+      <div class="col-md-4 mb-3">
+        <label for="validationDefaultUsername">Email</label>
+        <div class="input-group">
+          <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroupPrepend2">@</span>
+          </div>
+          <input id="c_email" name="c_email" type="text" class="form-control" placeholder="e-mail" aria-describedby="inputGroupPrepend2" value="{{=d_mail}}"
+            readonly="true">
+        </div>
+      </div>
+    </div>
+    <div class="form-row">
+      <div class="col-md-6 mb-3">
+        <label for="validationDefault03">Responsável</label>
+        <input type="text" class="form-control" name="c_resp" id="c_resp" placeholder="responsável" readonly="true">
+      </div>
+      <div class="col-md-3 mb-3">
+        <label for="validationDefault04">Sala</label>
+        <input type="text" class="form-control" id="c_sala" name="c_sala" placeholder="Sala" readonly="true">
+      </div>
+
+      <div class="col-md-3 mb-3">
+        <label for="validationDefault05">Cartão</label>
+
+        <input type="text" class="form-control" id="c_cartao" name="c_cartao" placeholder="nº do Cartão" required>
+      </div>
+
+    </div>
+    <button class="btn btn-outline-primary" type="submit">Presente</button>
+  </div>
+  </div>
+  </div>
+
+  <div>
+
+
+
+
+    <!--Lista de Presença -->
+    </br>
+    </br>
+
+    <div class="container">
+      <div class="form-row">
+        <div class="col-md-12">
+          <h5 class="p-3 mb-2 bg-info text-white">Registros em {{=data_registro}}</h5>
+          <table class="table table-hover">
+            <thead>
+              <tr>
+                <th scope="col">Matricula</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Sala</th>
+                <th scope="col">Cartão</th>
+                <th scope="col">Data entrada</th>
+                <th scope="col">Ação</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{for j in m:}}
+              <tr>
+                <th id="conteudo" scope="row">{{=j.matric_aluno}}</th>
+                <td>{{=j.nome}}</td>
+                <td>{{=j.matricula_sala}}</td>
+                <td>{{=j.cartao}}</td>
+                <td>{{=j.data_entrada}}</td>
+                <td>
+                  <button class="btn btn-outline-warning" type="submit" id="edita_kids">Editar</button>
+                </td>
+              </tr>
+              {{pass}}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+</body>
+
+</html>

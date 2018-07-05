@@ -1,0 +1,634 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.RuntimeError'> File /home/leonardo/Downloads/web2py/applications/KidsAppManager/databases/338cd1aadef3a19478dd3968308dac6d_frequencia.table appears corrupted"
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/models/db.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f9270396030, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/models/db.py", line 7>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.RuntimeError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.RuntimeError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.RuntimeError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'message'
+p20
+S"'File /home/leonardo/Downloads/web2py/application...dd3968308dac6d_frequencia.table appears corrupted'"
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.RuntimeError object>'
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.RuntimeError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.RuntimeError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.RuntimeError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'__format__'
+p32
+S'<built-in method __format__ of exceptions.RuntimeError object>'
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.RuntimeError'>"
+p35
+sS'__doc__'
+p36
+S"'Unspecified run-time error.'"
+p37
+sS'__getitem__'
+p38
+S"<method-wrapper '__getitem__' of exceptions.RuntimeError object>"
+p39
+sS'__setstate__'
+p40
+S'<built-in method __setstate__ of exceptions.RuntimeError object>'
+p41
+sS'__getattribute__'
+p42
+S"<method-wrapper '__getattribute__' of exceptions.RuntimeError object>"
+p43
+sS'args'
+p44
+S"('File /home/leonardo/Downloads/web2py/application...dd3968308dac6d_frequencia.table appears corrupted',)"
+p45
+sS'__subclasshook__'
+p46
+S'<built-in method __subclasshook__ of type object>'
+p47
+sS'__unicode__'
+p48
+S'<built-in method __unicode__ of exceptions.RuntimeError object>'
+p49
+sS'__delattr__'
+p50
+S"<method-wrapper '__delattr__' of exceptions.RuntimeError object>"
+p51
+sS'__repr__'
+p52
+S"<method-wrapper '__repr__' of exceptions.RuntimeError object>"
+p53
+sS'__hash__'
+p54
+S"<method-wrapper '__hash__' of exceptions.RuntimeError object>"
+p55
+ssS'evalue'
+p56
+S'File /home/leonardo/Downloads/web2py/applications/KidsAppManager/databases/338cd1aadef3a19478dd3968308dac6d_frequencia.table appears corrupted'
+p57
+sS'request'
+p58
+cgluon.html
+XML_unpickle
+p59
+(S'sYZ\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>KidsAppManager</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-ce796df0-367a-45fc-b21e-84592f3091ae<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_kidsappmanager</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CACHE_CONTROL</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_admin=127.0.0.1-ce796df0-367a-45fc-b21e-84592f3091ae; session_id_kidsappmanager=127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/KidsAppManager/default/busca_aluno?nome_kids=Arthur&amp;lista_presenca=</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/KidsAppManager/default/busca_aluno</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div>c_nome=Arthur&amp;c_matricula=6&amp;c_email=leomanancial%40hotmail.com&amp;c_resp=Leo&amp;c_sala=Amarela&amp;c_cartao=</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>56886</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>Unknow</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/leonardo/Downloads/web2py/applications/KidsAppManager/&#x27;, &#x27;/home/leonardo/Downloads/web2py/applications/admin/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7f92718a38c0: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;Unknow&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/leonardo/Downloads/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cache_control</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_admin=127.0.0.1-ce796df0-367a-45fc-b21e-84592f3091ae; session_id_kidsappmanager=127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/KidsAppManager/default/busca_aluno?nome_kids=Arthur&amp;lista_presenca=</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>Unknow</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/KidsAppManager/default/busca_aluno</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div>c_nome=Arthur&amp;c_matricula=6&amp;c_email=leomanancial%40hotmail.com&amp;c_resp=Leo&amp;c_sala=Amarela&amp;c_cartao=</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>56886</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/KidsAppManager/default/busca_aluno?c_nome=Arthur&amp;c_matricula=6&amp;c_email=leomanancial%40hotmail.com&amp;c_resp=Leo&amp;c_sala=Amarela&amp;c_cartao=</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>Unknow</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7f9275ef91e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7f92718d9258&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7f9273e29050&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7f9275ef91e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7f92718d9258&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7f9273e29050&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py/applications/KidsAppManager/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>busca_aluno</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/leonardo/Downloads/web2py/applications/KidsAppManager/&#x27;, &#x27;/home/leonardo/Downloads/web2py/applications/admin/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7f92718a38c0: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;Unknow&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/leonardo/Downloads/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>Unknow</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 6, 21, 14, 42, 5, 88110)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/KidsAppManager/default/busca_aluno</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 6, 21, 17, 42, 5, 88139)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x7f92686e7ad0&gt;</div></td></tr></table></div>'
+tRp60
+sS'frames'
+p61
+(lp62
+(dp63
+S'file'
+p64
+S'/home/leonardo/Downloads/web2py/gluon/restricted.py'
+p65
+sS'dump'
+p66
+(dp67
+S'environment'
+p68
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p69
+sS'ccode'
+p70
+S'<code object <module> at 0x7f9270396030, file "/...pplications/KidsAppManager/models/db.py", line 7>'
+p71
+ssS'lnum'
+p72
+I219
+sS'lines'
+p73
+(dp74
+I214
+S'    if environment is None:'
+p75
+sI215
+S'        environment = {}'
+p76
+sI216
+S"    environment['__file__'] = layer"
+p77
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p78
+sI218
+S'    try:'
+p79
+sI219
+S'        exec(ccode, environment)'
+p80
+sI220
+S'    except HTTP:'
+p81
+sI221
+S'        raise'
+p82
+sI222
+S'    except RestrictedError:'
+p83
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p84
+ssS'call'
+p85
+S'(ccode=<code object <module> at 0x7f9270396030, file "/...pplications/KidsAppManager/models/db.py", line 7>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=\'/home/leonardo/Downloads/web2py/applications/KidsAppManager/models/db.py\', scode=<code object <module> at 0x7f9270396030, file "/...pplications/KidsAppManager/models/db.py", line 7>)'
+p86
+sS'func'
+p87
+S'restricted'
+p88
+sa(dp89
+g64
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/models/db.py'
+p90
+sg66
+(dp91
+S'Field'
+p92
+S"<class 'pydal.objects.Field'>"
+p93
+sS'label'
+p94
+S'undefined'
+p95
+ssg72
+I195
+sg73
+(dp96
+I192
+S"    Field('cartao',requires=IS_NOT_EMPTY(),label='Cart\xc3\xa3o de entrada'),"
+p97
+sI193
+S"    Field('matricula_sala',db.cadastro,IS_IN_DB(db,'cadastro.sala_matriculado','%(nome_sala)s'),label=T('Sala Matriculado')),"
+p98
+sI194
+S"    Field('presenca','boolean',label=T('Presente?')),"
+p99
+sI195
+S"    Field('cod_presenca', label=('C\xc3\xb3digo da Presen\xc3\xa7a'))"
+p100
+sI196
+S')'
+sI197
+S''
+sI188
+S'db.define_table('
+p101
+sI189
+S"    'frequencia',"
+p102
+sI190
+S"    Field('nome',db.cadastro, requires=IS_IN_DB(db,'cadastro.nome_crianca','%(nome_crianca)s'),label='Nome'),"
+p103
+sI191
+S"    Field('data_entrada','datetime'),"
+p104
+ssg85
+S'()'
+p105
+sg87
+S'<module>'
+p106
+sa(dp107
+g64
+S'/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/base.py'
+p108
+sg66
+(dp109
+S'fields'
+p110
+S'(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>)'
+p111
+sS'self'
+p112
+S'<DAL uri="mysql:******@localhost/kids2">'
+p113
+sS'args'
+p114
+g19
+sS'tablename'
+p115
+S"'frequencia'"
+p116
+sS'table'
+p117
+g95
+sS'self.lazy_define_table'
+p118
+S'<bound method DAL.lazy_define_table of <DAL uri="mysql:******@localhost/kids2">>'
+p119
+ssg72
+I586
+sg73
+(dp120
+I581
+S'                                  (tablename, invalid_args))'
+p121
+sI582
+S'        if self._lazy_tables and tablename not in self._LAZY_TABLES:'
+p122
+sI583
+S'            self._LAZY_TABLES[tablename] = (tablename, fields, args)'
+p123
+sI584
+S'            table = None'
+p124
+sI585
+S'        else:'
+p125
+sI586
+S'            table = self.lazy_define_table(tablename, *fields, **args)'
+p126
+sI587
+S'        if tablename not in self.tables:'
+p127
+sI588
+S'            self.tables.append(tablename)'
+p128
+sI589
+S'        return table'
+p129
+sI590
+S''
+ssg85
+S'(self=<DAL uri="mysql:******@localhost/kids2">, tablename=\'frequencia\', *fields=(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>), **args={})'
+p130
+sg87
+S'define_table'
+p131
+sa(dp132
+g64
+S'/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/base.py'
+p133
+sg66
+(dp134
+S'polymodel'
+p135
+S'None'
+p136
+ssg72
+I620
+sg73
+(dp137
+I615
+S'            try:'
+p138
+sI616
+S'                GLOBAL_LOCKER.acquire()'
+p139
+sI617
+S'                self._adapter.create_table('
+p140
+sI618
+S'                    table, migrate=migrate,'
+p141
+sI619
+S'                    fake_migrate=fake_migrate,'
+p142
+sI620
+S'                    polymodel=polymodel)'
+p143
+sI621
+S'            finally:'
+p144
+sI622
+S'                GLOBAL_LOCKER.release()'
+p145
+sI623
+S'        else:'
+p146
+sI624
+S'            table._dbt = None'
+p147
+ssg85
+S'(self=<DAL uri="mysql:******@localhost/kids2">, tablename=\'frequencia\', *fields=(<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>), **args={})'
+p148
+sg87
+S'lazy_define_table'
+p149
+sa(dp150
+g64
+S'/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py'
+p151
+sg66
+(dp152
+S'self'
+p153
+S'<pydal.adapters.mysql.MySQL object>'
+p154
+sS'args'
+p155
+S'(<Table frequencia (id, nome, data_entrada, cartao, matricula_sala, presenca, cod_presenca)>,)'
+p156
+sS'self.migrator'
+p157
+S'<pydal.migrator.Migrator object>'
+p158
+sS'self.migrator.create_table'
+p159
+S'<bound method Migrator.create_table of <pydal.migrator.Migrator object>>'
+p160
+sS'kwargs'
+p161
+S"{'fake_migrate': False, 'migrate': True, 'polymodel': None}"
+p162
+ssg72
+I797
+sg73
+(dp163
+I800
+S'        super(SQLAdapter, self)._drop_table_cleanup(table)'
+p164
+sI801
+S'        if table._dbt:'
+p165
+sI792
+S''
+sI793
+S'    def bulk_insert(self, table, items):'
+p166
+sI794
+S'        return [self.insert(table, item) for item in items]'
+p167
+sI795
+S''
+sI796
+S'    def create_table(self, *args, **kwargs):'
+p168
+sI797
+S'        return self.migrator.create_table(*args, **kwargs)'
+p169
+sI798
+S''
+sI799
+S'    def _drop_table_cleanup(self, table):'
+p170
+ssg85
+S"(self=<pydal.adapters.mysql.MySQL object>, *args=(<Table frequencia (id, nome, data_entrada, cartao, matricula_sala, presenca, cod_presenca)>,), **kwargs={'fake_migrate': False, 'migrate': True, 'polymodel': None})"
+p171
+sg87
+S'create_table'
+p172
+sa(dp173
+g64
+S'/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/migrator.py'
+p174
+sg66
+(dp175
+S'table'
+p176
+S'<Table frequencia (id, nome, data_entrada, cartao, matricula_sala, presenca, cod_presenca)>'
+p177
+sS'table._dbt'
+p178
+S"'/home/leonardo/Downloads/web2py/applications/Kid...338cd1aadef3a19478dd3968308dac6d_frequencia.table'"
+p179
+sS'builtinRuntimeError'
+p180
+S"<type 'exceptions.RuntimeError'>"
+p181
+ssg72
+I298
+sg73
+(dp182
+I293
+S"            tfile = self.file_open(table._dbt, 'rb')"
+p183
+sI294
+S'            try:'
+p184
+sI295
+S'                sql_fields_old = pickle.load(tfile)'
+p185
+sI296
+S'            except EOFError:'
+p186
+sI297
+S'                self.file_close(tfile)'
+p187
+sI298
+S"                raise RuntimeError('File %s appears corrupted' % table._dbt)"
+p188
+sI299
+S'            self.file_close(tfile)'
+p189
+sI300
+S'            # add missing rnames'
+p190
+sI301
+S'            for key, item in sql_fields_old.items():'
+p191
+sI302
+S'                tmp = sql_fields.get(key)'
+p192
+ssg85
+S'(self=<pydal.migrator.Migrator object>, table=<Table frequencia (id, nome, data_entrada, cartao, matricula_sala, presenca, cod_presenca)>, migrate=True, fake_migrate=False, polymodel=None)'
+p193
+sg87
+g172
+sasS'pyver'
+p194
+S'Python 2.7.15rc1: /usr/bin/python (prefix: /usr)'
+p195
+sS'session'
+p196
+g59
+(S's;\x01\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">last_orderby</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_query</td><td style="vertical-align:top;">:</td><td><div>db.frequencia.id&gt;0</div></td></tr></table></div>'
+tRp197
+sS'etype'
+p198
+S"<type 'exceptions.RuntimeError'>"
+p199
+sS'date'
+p200
+S'Thu Jun 21 14:42:05 2018'
+p201
+sS'response'
+p202
+g59
+(S's\x06\x1b\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x7f927029a068&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_kidsappmanager</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap4_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Your Name &lt;you@example.com&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/busca_aluno/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_kidsappmanager</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;/home/leonardo/Downloads/web2py/applications/KidsAppManager/sessions/18f/1ed/127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7&#x27;, mode &#x27;rb+&#x27; at 0x7f92704e0f60&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>/home/leonardo/Downloads/web2py/applications/KidsAppManager/sessions/127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>e9b4b206f45ff05a225d000d85a94998</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-733b7e1d-73a5-4403-93ad-d0e72f4ad5f7</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_kidsappmanager</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>KidsAppManager</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/busca_aluno.html</div></td></tr></table></div>'
+tRp203
+sS'locals'
+p204
+(dp205
+S'rtablename'
+p206
+S"'cadastro'"
+p207
+sS'referenced'
+p208
+S"'cadastro'"
+p209
+sS'dbpath'
+p210
+S"'/home/leonardo/Downloads/web2py/applications/KidsAppManager/databases'"
+p211
+sS'migrate'
+p212
+S'True'
+p213
+sS'constraint_name'
+p214
+S"'frequencia_matricula_sala__constraint'"
+p215
+sS'table'
+p216
+S'<Table frequencia (id, nome, data_entrada, cartao, matricula_sala, presenca, cod_presenca)>'
+p217
+sS'query'
+p218
+S"'CREATE TABLE `frequencia`(\\n    `id` INT AUTO_INC...RY KEY (`id`)\\n) ENGINE=InnoDB CHARACTER SET utf8;'"
+p219
+sS'real_referenced'
+p220
+S"'`cadastro`'"
+p221
+sS'postcreation_fields'
+p222
+S'[]'
+p223
+sS'field_type'
+p224
+S"'string'"
+p225
+sS'self'
+p226
+S'<pydal.migrator.Migrator object>'
+p227
+sS'type_name'
+p228
+S"'reference'"
+p229
+sS'tablename'
+p230
+S"'frequencia'"
+p231
+sS'field'
+p232
+S'<pydal.objects.Field object>'
+p233
+sS'ftype'
+p234
+S"'VARCHAR(512)'"
+p235
+sS'polymodel'
+p236
+S'None'
+p237
+sS'rtable'
+p238
+S'<Table cadastro (id, nome_crianca, data_nascimen...i, nome_resp, email, telefone, sala_matriculado)>'
+p239
+sS'id_fieldname'
+p240
+S"'`id`'"
+p241
+sS'engine'
+p242
+S"'InnoDB'"
+p243
+sS'ftype_info'
+p244
+S"{'constraint_name': '`frequencia_matricula_sala__constraint`', 'field_name': '`matricula_sala`', 'foreign_key': '`cadastro` (`id`)', 'index_name': '`matricula_sala__idx`', 'null': '', 'on_delete_action': 'CASCADE', 'unique': ''}"
+p245
+sS'rfieldname'
+p246
+S"'id'"
+p247
+sS'tfile'
+p248
+S'<pydal.contrib.portalocker.LockedFile object>'
+p249
+sS'db'
+p250
+S'<DAL uri="mysql:******@localhost/kids2">'
+p251
+sS'fake_migrate'
+p252
+S'False'
+p253
+sS'sql_fields'
+p254
+S"{'cartao': {'length': 512, 'notnull': False, 'raw_rname': 'cartao', 'rname': '`cartao`', 'sortable': 4, 'sql': 'VARCHAR(512)', 'type': 'string', 'unique': False}, 'cod_presenca': {'length': 512, 'notnull': False, 'raw_rname': 'cod_presenca', 'rname': '`cod_presenca`', 'sortable': 7, 'sql': 'VARCHAR(512)', 'type': 'string', 'unique': False}, 'data_entrada': {'length': 512, 'notnull': False, 'raw_rname': 'data_entrada', 'rname': '`data_entrada`', 'sortable': 3, 'sql': 'DATETIME', 'type': 'datetime', 'unique': False}, 'id': {'length': 512, 'notnull': False, 'raw_rname': 'id', 'rname': '`id`', 'sortable': 1, 'sql': 'INT AUTO_INCREMENT NOT NULL', 'type': 'id', 'unique': False}, 'matricula_sala': {'length': <gluon.validators.IS_IN_DB object>, 'notnull': False, 'raw_rname': 'matricula_sala', 'rname': '`matricula_sala`', 'sortable': 5, 'sql': 'INT  , INDEX `matricula_sala__idx` (`matricula_s...`) REFERENCES `cadastro` (`id`) ON DELETE CASCADE', 'type': 'reference cadastro', 'unique': False}, 'nome': {'length': 512, 'notnull': False, 'raw_rname': 'nome', 'rname': '`nome`', 'sortable': 2, 'sql': 'INT  , INDEX `nome__idx` (`nome`), FOREIGN KEY (...`) REFERENCES `cadastro` (`id`) ON DELETE CASCADE', 'type': 'reference cadastro', 'unique': False}, 'presenca': {'length': 512, 'notnull': False, 'raw_rname': 'presenca', 'rname': '`presenca`', 'sortable': 6, 'sql': 'CHAR(1)', 'type': 'boolean', 'unique': False}}"
+p255
+sS'field_name'
+p256
+S"'cod_presenca'"
+p257
+sS'types'
+p258
+S"{'big-id': 'BIGINT AUTO_INCREMENT NOT NULL', 'big-reference': 'BIGINT %(null)s %(unique)s, INDEX %(index_name)s...ES %(foreign_key)s ON DELETE %(on_delete_action)s', 'bigint': 'BIGINT', 'blob': 'LONGBLOB', 'boolean': 'CHAR(1)', 'date': 'DATE', 'datetime': 'DATETIME', 'decimal': 'NUMERIC(%(precision)s,%(scale)s)', 'double': 'DOUBLE', 'float': 'FLOAT', ...}"
+p259
+sS'sortable'
+p260
+S'7'
+sS'sql_fields_aux'
+p261
+S"{'cartao': {'sql': 'VARCHAR(512)'}, 'cod_presenca': {'sql': 'VARCHAR(512)'}, 'data_entrada': {'sql': 'DATETIME'}, 'id': {'sql': 'INT AUTO_INCREMENT NOT NULL'}, 'matricula_sala': {'sql': 'INT  , INDEX `matricula_sala__idx` (`matricula_s...`) REFERENCES `cadastro` (`id`) ON DELETE CASCADE'}, 'nome': {'sql': 'INT  , INDEX `nome__idx` (`nome`), FOREIGN KEY (...`) REFERENCES `cadastro` (`id`) ON DELETE CASCADE'}, 'presenca': {'sql': 'CHAR(1)'}}"
+p262
+sS'TFK'
+p263
+g19
+sS'fields'
+p264
+S"'`id` INT AUTO_INCREMENT NOT NULL,\\n    `nome` INT...od_presenca` VARCHAR(512),\\n    PRIMARY KEY (`id`)'"
+p265
+sS'uri'
+p266
+S"'mysql://root:root@localhost/kids2'"
+p267
+sS'rfield'
+p268
+S'<pydal.objects.Field object>'
+p269
+sS'other'
+p270
+S"' ENGINE=InnoDB CHARACTER SET utf8;'"
+p271
+sssS'traceback'
+p272
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/models/db.py", line 195, in <module>\n    Field(\'cod_presenca\', label=(\'C\xc3\xb3digo da Presen\xc3\xa7a\'))\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/base.py", line 586, in define_table\n    table = self.lazy_define_table(tablename, *fields, **args)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/base.py", line 620, in lazy_define_table\n    polymodel=polymodel)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 797, in create_table\n    return self.migrator.create_table(*args, **kwargs)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/migrator.py", line 298, in create_table\n    raise RuntimeError(\'File %s appears corrupted\' % table._dbt)\nRuntimeError: File /home/leonardo/Downloads/web2py/applications/KidsAppManager/databases/338cd1aadef3a19478dd3968308dac6d_frequencia.table appears corrupted\n'
+p273
+s.

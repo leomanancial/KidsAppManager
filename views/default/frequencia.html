@@ -1,0 +1,39 @@
+{{extend 'layout_kids.html'}}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Registro de Entradas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/2.3.1/jquery.quicksearch.js"></script>
+</head>
+<body>
+        <form>
+                <div class="container">
+                  <div class="form-row">
+                    <div class="col-md-12">
+                      <!--h2 class="alert alert-info"> Buscar Kids</h2-->
+                      <div class="input-group col-md-12">
+                        <input id="nome_kids" type="text" required class="form-control input-lg" name="nome_kids" placeholder="Digite o nome da criança"
+                          value="" />
+                        <div>
+                          <button class="btn btn-outline-primary" type="submit" name="lista_presenca" id="nome_kids">Buscar</button>
+                        </div>
+                        <a class="btn btn-outline-success" href="{{=URL('default','cadastro')}}" role="button">Cadastrar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </br>
+                <div class="container">
+                  {{ if nao_encontrado: }}
+                  <div class="alert alert-danger ">
+                    <button type="button" class="close" data-dismiss="alert">×</button>{{=nao_encontrado}}</div>
+                  {{pass}}
+                </div>
+              </form>
+</body>
+</html>

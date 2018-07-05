@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S'<class \'gluon.contrib.pymysql.err.ProgrammingError\'> (1146, u"Table \'kids2.cadastro\' doesn\'t exist")'
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f9fa411fcb0, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py", line 7>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py", line 696, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/appadmin.py", line 146, in insert\n    form = SQLFORM(db[table], ignore_rw=ignore_rw)\n  File "/home/leonardo/Downloads/web2py/gluon/sqlhtml.py", line 1514, in __init__\n    inp = self.widgets.options.widget(field, default)\n  File "/home/leonardo/Downloads/web2py/gluon/sqlhtml.py", line 325, in widget\n    options = requires[0].options()\n  File "/home/leonardo/Downloads/web2py/gluon/validators.py", line 601, in options\n    self.build_set()\n  File "/home/leonardo/Downloads/web2py/gluon/validators.py", line 587, in build_set\n    records = self.dbset(table).select(*fields, **dd)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/objects.py", line 2250, in select\n    return adapter.select(self.query, fields, attributes)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 762, in select\n    return self._select_aux(sql, fields, attributes, colnames)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 718, in _select_aux\n    rows = self._select_aux_execute(sql)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 712, in _select_aux_execute\n    self.execute(sql)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/__init__.py", line 67, in wrap\n    return f(*args, **kwargs)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 412, in execute\n    rv = self.cursor.execute(command, *args[1:], **kwargs)\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/cursors.py", line 166, in execute\n    result = self._query(query)\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/cursors.py", line 322, in _query\n    conn.query(q)\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/connections.py", line 835, in query\n    self._affected_rows = self._read_query_result(unbuffered=unbuffered)\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/connections.py", line 1019, in _read_query_result\n    result.read()\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/connections.py", line 1302, in read\n    first_packet = self.connection._read_packet()\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/connections.py", line 981, in _read_packet\n    packet.check_error()\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/connections.py", line 393, in check_error\n    err.raise_mysql_exception(self._data)\n  File "/home/leonardo/Downloads/web2py/gluon/contrib/pymysql/err.py", line 107, in raise_mysql_exception\n    raise errorclass(errno, errval)\nProgrammingError: (1146, u"Table \'kids2.cadastro\' doesn\'t exist")\n'
+p11
+s.

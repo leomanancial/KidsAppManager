@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.AttributeError'> 'DAL' object has no attribute 'carro'"
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7fe1685d74b0, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 8>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 97, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 89, in mostrakids\n    record = db.carro(request.args(0)) or redirect(URL(\'index\'))\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/base.py", line 669, in __getattr__\n    return BasicStorage.__getattribute__(self, key)\nAttributeError: \'DAL\' object has no attribute \'carro\'\n'
+p11
+s.

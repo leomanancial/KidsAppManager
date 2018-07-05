@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.ValueError'> invalid literal for long() with base 10: 'Arthur'"
+p3
+sS'layer'
+p4
+S'/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f9273e29eb0, file "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 10>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/leonardo/Downloads/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 173, in <module>\n  File "/home/leonardo/Downloads/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/leonardo/Downloads/web2py/applications/KidsAppManager/controllers/default.py", line 152, in busca_aluno\n    db.frequencia.insert(**dados)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/objects.py", line 753, in insert\n    ret = self._db._adapter.insert(self, row.op_values())\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 479, in insert\n    query = self._insert(table, fields)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 475, in _insert\n    \',\'.join(self.expand(v, f.type) for f, v in fields))\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 475, in <genexpr>\n    \',\'.join(self.expand(v, f.type) for f, v in fields))\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 444, in _expand\n    rv = self.represent(expression, field_type)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 381, in represent\n    return super(SQLAdapter, self).represent(obj, field_type)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/adapters/base.py", line 335, in represent\n    return self.representer.represent(obj, field_type)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/representers/__init__.py", line 251, in represent\n    rv = self.get_representer_for_type(field_type)(rv, field_type)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/representers/__init__.py", line 139, in __call__\n    return self.adapt(self.call(value, field_type))\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/representers/__init__.py", line 133, in _call_with_extras\n    return self.inner_call(value, **extras)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/representers/__init__.py", line 124, in _inner_call\n    return self.obj.f(self.representer, value, **kwargs)\n  File "/home/leonardo/Downloads/web2py/gluon/packages/dal/pydal/representers/base.py", line 141, in _reference\n    return str(long(value))\nValueError: invalid literal for long() with base 10: \'Arthur\'\n'
+p11
+s.
